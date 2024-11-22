@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "csharpier.csharpier-vscode",
+    "ms-dotnettools.vscodeintellicode-csharp",
+    "streetsidesoftware.code-spell-checker"
+  ]
+}
